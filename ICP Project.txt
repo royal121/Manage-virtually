@@ -1,0 +1,76 @@
+Scan Images using zBar:
+
+https://web.archive.org/web/20130218102133/http://sourceforge.net/apps/mediawiki/zbar/index.php?title=HOWTO:_Scan_images_using_the_API
+
+http://translate.google.com/translate?depth=1&hl=en&ie=UTF8&rurl=translate.google.com&sl=pt-BR&tl=en&u=http://www.vivaolinux.com.br/artigo/Zebra-Barcode-Reader-Lendo-codigo-de-barras-com-a-sua-Webcam-no-Linux/
+
+zLib:
+
+http://zlib.net/zlib_how.html
+http://zlib.net/manual.html
+http://www.lemoda.net/c/zlib-open-write/index.html
+http://www.lemoda.net/c/zlib-open-read/index.html
+
+How to use command line arguments:
+http://www.lemoda.net/c/command-line/index.html
+
+--------------------------------------------------------------------
+LibPng Manual:
+http://www.libpng.org/pub/png/libpng-manual.txt
+
+Read, Write and process png:
+
+http://zarb.org/~gc/html/libpng.html
+http://www.labbookpages.co.uk/software/imgProc/libPNG.html
+http://www.libpng.org/pub/png/book/chapter13.html
+http://www.libpng.org/pub/png/book/toc.html
+
+Tasks for PNG:
+http://www.lemoda.net/c/png-set-time/index.html
+http://www.lemoda.net/c/png-text/index.html
+http://www.lemoda.net/c/write-png/index.html
+
+
+
+
+
+
+String Handling:
+1) Reverse a string
+2) Count Vowels 
+3) Check if Palindrome 
+4) Count Words in a String
+*5) Post it Notes Program: Store and retrieve notes from a file
+6) Random key password generator
+7) Print today's Date:
+http://www.lemoda.net/c/date-today/index.html
+8) Size of the file:
+http://www.lemoda.net/c/get-file-size/index.html
+9) IP to integer:
+http://www.lemoda.net/c/ip-to-integer/index.html
+
+--------------------------------------------------------
+Python Things:
+
+ZIP Locator
+http://code.google.com/p/python-geolocate/
+
+Weather Info
+http://code.google.com/p/python-weather-api/
+
+RSS Reader
+Manage system virtually: ls, cd commands 
+
+Country from IP Lookup 
+http://pythonhosted.org/python-geoip/
+
+PDF Creator:
+https://code.google.com/p/pyfpdf/wiki/Tutorial
+https://code.google.com/p/pyfpdf/
+https://github.com/mstamy2/PyPDF2
+http://www.blog.pythonlibrary.org/2012/07/11/pypdf2-the-new-fork-of-pypdf/
+
+PDF to Text convertor
+
+
+
