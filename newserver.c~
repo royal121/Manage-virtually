@@ -12,7 +12,7 @@
 #include <sys/sendfile.h>
 
 #define MAXPENDING 5    /* Maximum outstanding connection requests */
-#define FILENAME    "ab.mp3"   /* File to save*/
+#define FILENAME    "a.pdf"   /* File to save*/
 
 void DieWithError(char *errorMessage) /*Function to handle errors*/
 {
